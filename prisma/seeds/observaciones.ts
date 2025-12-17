@@ -1,0 +1,50 @@
+export const observaciones = [
+    {
+        observacion: "Cambio de fibras y pastillas",
+        fecha: new Date("2024-01-01"),
+        rectificacionDiscosDelanteros: true,
+        rectificacionDiscosTraseros: false,
+        rectificacionTambores: true,
+        pastillasDelanteras: 'prueba',
+        pastillasTraseras: 'prueba',
+        zapatas: 'prueba',
+        liquido: 'prueba',
+        bombas: 'prueba',
+        caliper: false,
+        mantenDelantero: true,
+        mantenTrasero: true,
+        vehiculoId: 1
+    },
+    {
+        observacion: "Cambio de aceite",
+        fecha: new Date("2025-11-11"),
+        rectificacionDiscosDelanteros: true,
+        rectificacionDiscosTraseros: false,
+        rectificacionTambores: true,
+        pastillasDelanteras: 'prueba',
+        pastillasTraseras: 'prueba',
+        zapatas: 'prueba',
+        liquido: 'prueba',
+        bombas: 'prueba',
+        caliper: false,
+        mantenDelantero: true,
+        mantenTrasero: true,
+        vehiculoId: 1
+    },
+    {
+        observacion: "Cambio de fibras",
+        fecha: new Date("2025-11-11"),
+        rectificacionDiscosDelanteros: true,
+        rectificacionDiscosTraseros: false,
+        rectificacionTambores: true,
+        pastillasDelanteras: 'prueba',
+        pastillasTraseras: 'prueba',
+        zapatas: 'prueba',
+        liquido: 'prueba',
+        bombas: 'prueba',
+        caliper: false,
+        mantenDelantero: true,
+        mantenTrasero: true,
+        vehiculoId: 2
+    }
+]
